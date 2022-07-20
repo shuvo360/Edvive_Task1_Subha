@@ -1,5 +1,4 @@
 import 'package:ex_1/Speachtotranslate.dart';
-//import 'package:ex_1/texttranslate.dart';
 import 'package:flutter/material.dart';
 
 void main() {
