@@ -35,13 +35,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_tts:
   translator:
-  image_picker:
-  firebase_core:
-  curved_navigation_bar:
   flutter_speed_dial:
   speech_to_text:
   avatar_glow:
-  google_ml_kit:
 
 dev_dependencies:
   flutter_test:
