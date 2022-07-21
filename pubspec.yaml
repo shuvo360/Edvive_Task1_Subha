@@ -41,7 +41,6 @@ dependencies:
   flutter_speed_dial:
   speech_to_text:
   avatar_glow:
-  google_ml_kit:
 
 dev_dependencies:
   flutter_test:
